@@ -1,0 +1,11 @@
+LICENSE
+README.md
+pyproject.toml
+src/Testing_project/__init__.py
+src/Testing_project/functions.py
+src/Testing_project.egg-info/PKG-INFO
+src/Testing_project.egg-info/SOURCES.txt
+src/Testing_project.egg-info/dependency_links.txt
+src/Testing_project.egg-info/requires.txt
+src/Testing_project.egg-info/top_level.txt
+tests/test_functions.py

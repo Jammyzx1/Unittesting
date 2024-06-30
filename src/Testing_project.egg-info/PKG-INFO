@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Testing_project
+Version: 0.0.1
+Summary: Example of unit testing
+Author: James McDonagh
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Requires-Python: >=3.7
+License-File: LICENSE
+Requires-Dist: numpy>=1.24.0
+Requires-Dist: pytest>=8.2.2
